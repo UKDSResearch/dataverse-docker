@@ -6,7 +6,7 @@
 - **Components:** Dataverse app (8080), Postgres 17, Solr 9.8.0, file store, previewers (9000)
 - **Open ports:** 8080 and 9000 only
 - **Data:** `/app/data` (Postgres, Solr, uploaded files)
-- **Secrets:** stored in the secret manager tooling (DB password, `dataverseAdmin` password).
+- **Secrets:** stored in the secret manager tooling (DB password, API_KEY,  `dataverseAdmin` password).
 
 
 **Operate**
