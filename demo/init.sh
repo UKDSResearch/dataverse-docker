@@ -6,7 +6,7 @@ set -euo pipefail
 DATAVERSE_URL=${DATAVERSE_URL:-"http://dataverse:8080"}
 export DATAVERSE_URL
 
-BLOCKED_API_KEY=${BLOCKED_API_KEY:-"secret-unblock-key"}
+BLOCKED_API_KEY=${BLOCKED_API_KEY:-"secret-manager-tooling"}
 export BLOCKED_API_KEY
 
 # --insecure is used so we can configure a few things but
