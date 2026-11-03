@@ -15,7 +15,7 @@
 - Backup: `pg_dump` of the database, plus `./data/app/data`
 
 **To do:** 
-- Pin image tags, 
+- Pin image tag
 - Set up a real SMTP relay
 - Schedule backups
 - Confirm DNS for ukdsserv24, decide on HTTPS
